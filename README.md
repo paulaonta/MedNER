@@ -1,2 +1,2 @@
 # MedNER
-Medikuntzako NER sistema gainbegiratu bat 
+Named Entity Recognition (NER) ataza pertsonen izenak, erakundeak, kokalekuak, kopuruak, ehunekoak, eta abar bezalako kategoriak identifikatzeko erabiltzen da. Teknika desberdinak garatuz ekarpen handiak eman dira arlo honetan, baita domeinu espezializatuagoetan, batez ere biomedikuntza arloan, aritzen diren NER-etan ere. Biltegi honetan biomedikuntzako corpus baten gainean aplikatu den NER atazaren ebazpena aurkezten da. Horretarako, BERT orokorrak eta biomedikuntzan oinarritutako BERTak probatu dira, horiek konparatuz. Emaitzak ikusirik, espezializatuak hobeak direla ikusi da. Bestalde, gaixotasunak eta sintomak Wikidaterekin lotu dira Levenhstein distantzia erabiliz.
